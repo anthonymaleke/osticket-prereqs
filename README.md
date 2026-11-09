@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
 # osTicket - Prerequisites and Installation
 
 This project documents how to deploy the open-source help desk system osTicket on a Windows Server virtual machine in Microsoft Azure, using IIS, PHP and MariaDB. It is Part 1 of a three-part series that takes a blank cloud VM to a working help desk.
@@ -5,6 +9,7 @@ This project documents how to deploy the open-source help desk system osTicket o
 ## Portfolio Project
 
 **Author:** Anthony Maleke
+
 **Contact:** [Linkedin](https://github.com/anthonymaleke/osticket-prereqs.git)
 
 ## Video Demonstration
