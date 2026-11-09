@@ -10,7 +10,7 @@ This project documents how to deploy the open-source help desk system osTicket o
 
 **Author:** Anthony Maleke
 
-**Contact:** [Linkedin](https://github.com/anthonymaleke/osticket-prereqs.git)
+**Contact:** [Linkedin](https://www.linkedin.com/in/anthonymaleke/)
 
 ## Video Demonstration
 
