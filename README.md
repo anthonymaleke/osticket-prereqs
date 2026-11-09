@@ -4,8 +4,8 @@ This project documents how to deploy the open-source help desk system osTicket o
 
 ## Portfolio Project
 
-**Author:** `<Your Name>`
-**Contact:** `<LinkedIn or email>`
+**Author:** Anthony Maleke
+**Contact:** [Linkedin](https://github.com/anthonymaleke/osticket-prereqs.git)
 
 ## Video Demonstration
 
@@ -120,13 +120,6 @@ Full commands and screenshots for every step are in [INSTRUCTIONS.md](INSTRUCTIO
 - The lab uses HTTP, not HTTPS. Use test credentials only.
 - The PHP IMAP extension is not bundled with PHP 8.4, so fetching email from a mailbox is not configured in this series.
 
-## Repository Contents
-
-| File | Description |
-|---|---|
-| README.md | Project overview (this file) |
-| INSTRUCTIONS.md | Detailed step-by-step guide with commands |
-| images/ | Screenshots referenced by the instructions |
 
 ## References
 
@@ -138,4 +131,4 @@ Full commands and screenshots for every step are in [INSTRUCTIONS.md](INSTRUCTIO
 
 ## Next Step
 
-Continue to [Part 2: post-install-config](https://github.com/REPLACE_ME/post-install-config).
+Continue to [Part 2: post-install-config](https://github.com/anthonymaleke/osticket-post-install).
