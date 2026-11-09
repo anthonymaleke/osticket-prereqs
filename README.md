@@ -21,8 +21,8 @@ This project documents how to deploy the open-source help desk system osTicket o
 | Part | Repository | Topic |
 |---|---|---|
 | 1 | **osticket-prereqs** (this repo) | Azure VM, IIS, PHP, database, osTicket installation |
-| 2 | [post-install-config](https://github.com/REPLACE_ME/post-install-config) | Roles, departments, teams, agents, users, SLAs, help topics |
-| 3 | [ticket-lifecycle](https://github.com/REPLACE_ME/ticket-lifecycle) | A ticket from intake to resolution |
+| 2 | [post-install-config](https://github.com/anthonymaleke/post-install-config) | Roles, departments, teams, agents, users, SLAs, help topics |
+| 3 | [ticket-lifecycle](https://github.com/anthonymaleke/ticket-lifecycle) | A ticket from intake to resolution |
 
 ## Environments and Technologies Used
 
@@ -67,8 +67,6 @@ Versions follow the requirements published in the official osTicket documentatio
 5. Install osTicket with the web-based installer.
 6. Verify the end-user portal and the agent portal.
 7. Remove the setup directory and lock down the configuration file.
-
-Full commands and screenshots for every step are in [INSTRUCTIONS.md](INSTRUCTIONS.md).
 
 ## Outline
 
