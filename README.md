@@ -14,7 +14,7 @@ This project documents how to deploy the open-source help desk system osTicket o
 
 ## Video Demonstration
 
-- [YouTube: osTicket Tutorial (Part 1 of 3) - Prerequisites and Installation](https://www.youtube.com/watch?v=REPLACE_ME)
+- [YouTube: osTicket Tutorial (Part 1 of 3) - Prerequisites and Installation](https://youtu.be/USWqz_NrIJA)
 
 ## The Series
 
